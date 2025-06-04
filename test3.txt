@@ -1,2 +1,2 @@
 username: julieab
-password: W89l0!gr&
+password: $PSWD
